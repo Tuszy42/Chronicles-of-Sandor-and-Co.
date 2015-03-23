@@ -12,3 +12,10 @@ GIT!!!!
 
 //ezzel tolod fel a regisztralt valtoztatsokat az online repo-ba
 % git push
+
+// updateli a lokal repodat az online verzioval
+% git fetch
+
+//lemasol egy repot lokal
+% git clone
+

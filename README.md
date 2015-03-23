@@ -1,4 +1,8 @@
-Chronicles of Sándor & Co.
+Nem tûr halasztást kiépíteni a vállalatspecifikus interoperabilitást.
+
+
+
+Chronicle  of Sándor & Co.
 ============================
 This project is made by me, Robert 'Tuszy' Motyka, and by Gábor 'Timere' Halász. This is not made for university, it is entirely made for our own entertainment.
 It is a simple rpg game concept, with very basic functions. For now, it only simulates battles between the hero of the user, and random creatures. Technical functions are creating, saving and loading of a custom character (only the name and the class can be unique). Game functions include a fight button, simulating one round of battle, and the heal function, with yet unlimited heal (it is now only for testing purposes).
